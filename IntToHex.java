@@ -1,7 +1,7 @@
 import java.util.Stack;
 
 /**
- * conversion using stack
+ * Integer to Hex conversion using a stack
  */
 public class IntToHex extends Stack {
     String digits = "0123456789ABCDEF";
