@@ -1,2 +1,4 @@
-<h2>Simple Ruby Interpreter implemented in Java</h2>
-<p>language: java</p>
+Basic Ruby Interpreter
+===================
+
+A simplified version of a ruby interpreter implemented in Java, obeys Ruby grammar and reads in .rb files
