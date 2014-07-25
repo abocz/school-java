@@ -1,4 +1,4 @@
-#Java School Files:
+Java School Files:
 =================
 
 Files and Projects related to or directly for College courses
