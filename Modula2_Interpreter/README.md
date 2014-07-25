@@ -3,7 +3,6 @@ Basic Modula2 Interpreter
 
 A minimal form of Modula2, has only 1 data type and single letter identifiers.
 
-***
 
 Grammar
 -------
